@@ -1,0 +1,6 @@
+{
+  "name": "Suvo Dev Fitness Portfolio",
+  "description": "Premium, high-converting Fitness Trainer Portfolio Website for Suvo Dev - Certified Fitness Trainer & Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
